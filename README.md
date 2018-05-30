@@ -1,2 +1,3 @@
-Assorted presentations (& formats) delivered at various meetups.
+Assorted presentations (& formats) delivered at various meetups
+.
   
