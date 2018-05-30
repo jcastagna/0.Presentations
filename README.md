@@ -1,2 +1,2 @@
-Assorted presentations (& formats) delivered at Sydney users of R Forum (SuRf).
+Assorted presentations (& formats) delivered at various meetups.
   
